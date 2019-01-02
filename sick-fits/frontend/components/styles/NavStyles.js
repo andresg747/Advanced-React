@@ -41,7 +41,7 @@ const NavStyles = styled.ul`
       position: absolute;
       transform: translateX(-50%);
       transition: width 0.4s;
-      transition-timing-function: cubic-bezier(1, -0.65, 0, 2.31);
+      transition-timing-function: cubic-bezier(0.01, 1.18, 0.63, 1.58);
       left: 50%;
       margin-top: 2rem;
     }
